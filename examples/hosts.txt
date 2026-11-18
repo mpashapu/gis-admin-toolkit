@@ -1,0 +1,11 @@
+# One target per line: host, host:port, or a full https:// URL.
+# Lines starting with # are ignored.
+
+# Public sites (safe to try)
+www.esri.com
+geocoding.geo.census.gov
+
+# Typical ArcGIS Enterprise endpoints (replace with your own)
+# gis.example.gov                 # IIS / Web Adaptor
+# gis.example.gov:6443            # ArcGIS Server direct
+# portal.example.gov:7443         # Portal direct
